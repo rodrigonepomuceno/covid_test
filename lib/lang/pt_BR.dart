@@ -1,0 +1,20 @@
+const Map<String, String> pt_BR = {
+  'language': 'Idioma',
+  'my_country': 'Meu País',
+  'portuguese': 'Português',
+  'english': 'Inglês',
+  'risk': 'Risco:',
+  'serious': 'Gravissimo',
+  'high_risk': 'Grave',
+  'high': 'Alto',
+  'moderate': 'Moderado',
+  'active': 'Ativos',
+  'confirmed': 'Confirmados',
+  'recovered': 'Recuperados',
+  'deaths': 'Óbitos',
+  'data_updated_on': 'Dados atualizados em:',
+  'other_countries': 'Outros Países',
+  'profile': 'Perfil',
+  'statistics': 'Statistics',
+  'news': 'Noticias'
+};
